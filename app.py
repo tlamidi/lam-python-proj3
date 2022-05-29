@@ -16,6 +16,6 @@ def run_test(questions):
     for question in questions:
         answer = input(question.prompt)
         if answer == question.answer
-            score+=
+        score+=1
 
-    for
+    
