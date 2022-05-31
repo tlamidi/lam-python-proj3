@@ -29,3 +29,9 @@ The deployment terminal is set to 80 columns by 24 rows. That means that each li
 
 -----
 Happy coding!
+
+
+
+In this project, it is about building a Simple Multiple choice Quiz using Python programing language. In actual fact , this is a small size project, but it could be used as a template for a bigger or different sizes of Multiple choice quize. This project targets wider range of different establishments in the society, groups, or possibly individuals, that would require some sort of quize or aptitude test to carry out an objective. Basically, Multiple choice quize is used primarily to test people's IQ, mental ability, choosing participant as been the best for a purpose, like in admission, employment, scholarship, entry level to participate in an occasion and in a competion between groups of people.  As a matter of fact, this project is intended for the society at large in the area of testing ability and selection for best or better candidate. 
+
+The project in particular targets, some government departments to test people for different administrative reasons, for an example, driving test theory. Some are set up to test individual knowledge on different issues, like on academic subjects, planet, environment, current affairs, and many more. I title my Project "Simple Multiple Choice Quiz".
