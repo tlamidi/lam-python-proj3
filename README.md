@@ -54,3 +54,10 @@ Everytime the user gets it right,it will increment the score variable by one, i.
 I loop through all the question in the question array. First created a 'for loop i.e 'for question in questions:
 Basically, this is to ask user question and store the response inside the variable 'answer = input(question.prompt)'.
 With 'if statement', this is to determine if the user get the question right. Giving, 'if answer == question.answer', this is to check if the answer the student gave is equal to the answer of the current question that were asking.If it is true, I just want to see score increment. That is score += 1. Basically we are adding 1 to the score.
+
+Finally, within the loop, I would like to print the result. That is, to print out how many questions out of the total questions the user get right. Looking into the print statement,
+        print("You got" + str(score) + "/" + str(len(questions)) + "correct") 
+In the statement, 'Score' is the number of question user got right. With "str(score)", this is to first convert number into string. Also with str(len(questions,)), this is to first convert number into string, len() also to figure out how many questions were in the question array.
+With the print statement, it would print out how many questions user got right.
+Lastly the run_test function() is called. i.e
+                run_test(questions).
