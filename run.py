@@ -12,6 +12,7 @@ questions = [
     Question(question_prompts[2], "b"),
 ]
 
+
 def run_test(questions):
     score = 0                                                                                                                                                                                                                  
     for question in questions:
