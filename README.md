@@ -87,4 +87,14 @@ The steps to implement the deployment are as follows;
   I name the App and gave it a name 'Multiple Quiz Test'. Europe is sellected as the region. I clicked creat App.
 . The following page has got all the information to set up the App. In this page, there are some tabs at the top of the 
   page. We are only interested in the deploy tab and the settings tab. Settings has to be configured first before the 
-  deployment.
+  deploy tab.
+. The first in the settings is to cofigure Config.vars. Is is refered to as environmental variables. It is where you will 
+  store sensitive data we need to keep secret.
+  I click on creat Config.vars. In the 'key' field, we typed creds. In the value area, we copy the content in the creds.json file and paste it in the value space. Then click add.
+  I will like to say that, a project it does not contain any creds.json file, we wont need to set any Config.vars.
+. Next is to add couple of buildpacks. I clicked add buildpack . First to add was Python, then I clicked save changes.
+  The second buildpack sellected was node.json. Then i clicked save changes. Two buildback sellected in total. 
+. The deploy tab was clicked. 
+  I clicked on Github. Then confirmed Github connection. There are two options of deployment, automatic deployment and manual deployment. We can choose either of the two options. I clicked on manual deployment.
+. Now the App is being built, and the finally, the App successfully deployed message and the button to connect us to 
+  the deployed link.
