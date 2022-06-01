@@ -1,4 +1,4 @@
 class Question:
-    def __init__(self, prompt, answer): # To store question prompt, and answer
+    def __init__(self, prompt, answer): # Class() for questionprompt, and answer.
         self.prompt = prompt 
         self.answer = answer 
