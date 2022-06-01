@@ -62,3 +62,18 @@ In the statement, 'Score' is the number of question user got right. With "str(sc
 With the print statement, it would print out how many questions user got right.
 Lastly the run_test function() is called. i.e
                 run_test(questions).
+
+Validator Testing.
+
+There was no error returned when passing through PEP8 checker the official validator.
+Only one validator was employed in this project, and that was PEP8 checker.
+
+Unfixed bugs.
+
+There were no unfixed bugs in the project.
+
+Deployment.
+
+The site was deployed through the Heroku site to GitHub pages.
+The steps to implement the deployment are as follows;
+
