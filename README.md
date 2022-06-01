@@ -76,4 +76,4 @@ Deployment.
 
 The site was deployed through the Heroku site to GitHub pages.
 The steps to implement the deployment are as follows;
-
+. In the browser, connect to Heroku.com site 
