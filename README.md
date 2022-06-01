@@ -68,12 +68,23 @@ Validator Testing.
 There was no error returned when passing through PEP8 checker the official validator.
 Only one validator was employed in this project, and that was PEP8 checker.
 
+
 Unfixed bugs.
 
 There were no unfixed bugs in the project.
+
 
 Deployment.
 
 The site was deployed through the Heroku site to GitHub pages.
 The steps to implement the deployment are as follows;
 . In the browser, connect to Heroku.com site 
+. Click on sign up for free account. Fill in the form , fist name, lastname, email address, contry of residence, role as a 
+  student, and lastly the laquage , python.
+. Heroku will confirm the email address. In the email address, there is a link specifically for confirmation of the    
+  email address. After the confirmation, Heroku will bring us back to log in page as a new user to creat new password and confirm. After confirmation, we will be on an empty dashboard to populate.
+. Next is to creat our first App(Web application). I click on creat new App button. In the new App page settings,
+  I name the App and gave it a name 'Multiple Quiz Test'. Europe is sellected as the region. I clicked creat App.
+. The following page has got all the information to set up the App. In this page, there are some tabs at the top of the 
+  page. We are only interested in the deploy tab and the settings tab. Settings has to be configured first before the 
+  deployment.
