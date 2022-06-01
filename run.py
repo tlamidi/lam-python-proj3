@@ -14,7 +14,7 @@ questions = [
 
 # function with loop to track correct answers and print result.
 def run_test(questions):
-    score = 0                                                                                                                                                  
+    score = 0 
     for question in questions:
         answer = input(question.prompt)
         if answer == question.answer:
