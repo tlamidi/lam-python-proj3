@@ -92,6 +92,7 @@ The steps to implement the deployment are as follows;
   store sensitive data we need to keep secret.
   I click on creat Config.vars. In the 'key' field, we typed creds. In the value area, we copy the content in the creds.json file and paste it in the value space. Then click add.
   I will like to say that, a project it does not contain any creds.json file, we wont need to set any Config.vars.
+  This project did not contain and sensitive file, and as such I did not have to configure config.vars.
 . Next is to add couple of buildpacks. I clicked add buildpack . First to add was Python, then I clicked save changes.
   The second buildpack sellected was node.json. Then i clicked save changes. Two buildback sellected in total. 
 . The deploy tab was clicked. 
